@@ -1,10 +1,10 @@
-Breast Cancer Detection using Machine Learning
+****Breast Cancer Analysis****
 
-Overview
+**Overview**
 
-This project focuses on building a machine learning model to detect breast cancer using a dataset of cell features. The model is developed using Python and leverages libraries like Pandas, NumPy, Matplotlib, and Seaborn for data analysis and visualization. The project explores various classifiers to predict whether a tumor is benign or malignant.
+This project focuses on analyzing breast cancer data using Python. The analysis leverages libraries like Pandas, NumPy, Matplotlib, and Seaborn for data preprocessing, exploration, and visualization. The goal is to gain insights into the dataset and understand the distribution and relationships of various features associated with breast cancer.
 
-Dataset
+**Dataset**
 
 The dataset used in this project contains various features computed from digitized images of fine needle aspirate (FNA) of breast masses. These features describe characteristics of the cell nuclei present in the image.
 
