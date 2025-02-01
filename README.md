@@ -19,11 +19,12 @@ The notebook guides you through the steps of data preprocessing, exploratory dat
 
 **Data Visualization:**
 
-The project includes various visualizations to better understand the data, such as:
-  Histograms and distribution plots of features
-  Correlation heatmaps
-  Pair plots to visualize relationships between features
-  Boxplots to identify outliers
+This project employs a variety of visualizations to facilitate a deeper understanding of the data, including:
+  - Pie charts to illustrate the distribution of different patient types.
+  - Histograms and distribution plots to examine the features and target variables.
+  - Correlation heatmaps to identify relationships between variables.
+  - Pair plots to visualize interactions among different features.
+  - Boxplots to detect outliers and analyze data spread.
 
 **Results:**
 
